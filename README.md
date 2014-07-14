@@ -7,4 +7,4 @@ The biggest lesson learned on this project was the importance of preparation. Ap
 
 My responsibilities on this project:
 * Writing of all of the backend code on the “Teacher’s” side of the application.
-* Front end design of the application.grunt
+* Front end design of the application.
